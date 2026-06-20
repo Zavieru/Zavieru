@@ -21,7 +21,7 @@ Instead of running heavy virtualization on my primary analyst workstation, I iso
 I am progressively building a structured, enterprise-grade lab environment. You can explore the detailed triage reports, configuration baselines, and architecture maps in the folders above:
 
 ### 📁 Phase 1: Quick Wins & Operational Foundations
-1. **Phishing Analysis (`/01-Phishing-Analysis`)**
+1. **Phishing Analysis (`/01-Phishing-Analysis`)** :white_check_mark:
    * Extracting indicators of compromise (IOCs) and tracing spoofed sender IPs from live samples using PhishTank, MXToolbox, and VirusTotal to generate executive triage reports.
 2. **Open-Source IT Ticketing System (`/02-IT-Ticketing-osTicket`)**
    * Deploying osTicket on Linux to build support queues, map multi-tier SLA response matrices, and manage the full user-request lifecycle.
