@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Zavier 👋
 
-Welcome to my cybersecurity portfolio! I am an analytical and hands-on **Cybersecurity Analyst** focused on defensive security engineering, enterprise identity architecture, and threat detection. 
+Welcome to my cybersecurity portfolio! I am an analytical and hands-on ** Aspiring Cybersecurity Analyst**.
 
 I utilize a dedicated, dual-station homelab environment to simulate real-world enterprise infrastructure, replicate corporate workflows, and analyze modern attack surfaces.
 
@@ -53,5 +53,5 @@ I am progressively building a structured, enterprise-grade lab environment. You 
 ---
 
 ## 📬 Connect With Me
-* **LinkedIn:** [Your LinkedIn URL]
-* **Email:** [Your Professional Email]
+
+* **Email:** zavieruddin@gmail.com
