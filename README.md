@@ -1,6 +1,6 @@
 # Hi, I'm Zavier 👋
 
-Welcome to my cybersecurity portfolio! I am an analytical and hands-on ** Aspiring Cybersecurity Analyst**.
+Welcome to my cybersecurity portfolio! I am an analytical and hands-on Aspiring Cybersecurity Analyst.
 
 I utilize a dedicated, dual-station homelab environment to simulate real-world enterprise infrastructure, replicate corporate workflows, and analyze modern attack surfaces.
 
