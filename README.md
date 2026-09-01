@@ -27,7 +27,7 @@ I am progressively building a structured, enterprise-grade lab environment. You 
    * Deploying osTicket on Linux to build support queues, map multi-tier SLA response matrices, and manage the full user-request lifecycle.
 
 ### 📁 Phase 2: On-Premises Infrastructure & Administration
-3. **Windows Server On-Premises Active Directory Home Lab (`/03-Active-Directory-OnPrem`) - In Progress""
+3. Windows Server On-Premises Active Directory Home Lab (`/03-Active-Directory-OnPrem`) - In Progress
    * Deploying a primary Domain Controller (.local forest), configuring DHCP/DNS scopes, structuring realistic corporate OUs, and pushing security baselines via Group Policy Objects (GPOs) to corporate clients.
 
 ### 📁 Phase 3: Defensive Monitoring & Threat Detection
